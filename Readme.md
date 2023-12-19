@@ -4,3 +4,7 @@
 
 >Supattra Pangjun 643021342-4 SEC.4 [Username : janjanbabyjan] 
 ![MEMBER 2](./media/jan.jpg)
+
+
+>Ratchanon Watthanakul 643020638-9 Sec.4 [Username : folkratchanon]
+<img src="./media/ratchanon.JPG" alt="Image" width="300" height="400">
