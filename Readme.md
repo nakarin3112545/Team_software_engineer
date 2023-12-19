@@ -13,4 +13,4 @@
 <img src="./media/pang.jpg" alt="Image" width="300" height="auto">
 
 >chanakan Inudom 643380002-3 Sec4 [Username : chanakan643380002-3]
-<img src="./media/hern.jpg" alt="Image" width="300" height="auto">
+<img src="./media/Hern.jpg" alt="Image" width="300" height="auto">
