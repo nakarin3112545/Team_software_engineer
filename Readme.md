@@ -3,4 +3,4 @@
 
 
 >Supattra Pangjun 643021342-4 SEC.4
--!(/Media/jan.jpg)
+-(/media/jan.jpg)
