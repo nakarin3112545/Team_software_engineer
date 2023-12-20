@@ -9,20 +9,38 @@
 
 --------------------
 
->Supattra Pangjun 643021342-4 Sec.4 [Username : janjanbabyjan]
+### Supattra Pangjun
+- Student ID: 643021342-4
+- Section: Sec.4
+- GitHub Username: [janjanbabyjan]
 <img src="./media/jan.jpg" alt="Image" width="300" height="auto">
 
->Ratchanon Watthanakul 643020638-9 Sec.4 [Username : folkratchanon]
+### Ratchanon Watthanakul
+- Student ID: 643020638-9
+- Section: Sec.4
+- GitHub Username: [folkratchanon]
 <img src="./media/ratchanon.JPG" alt="Image" width="300" height="400">
 
->Anongnat Chamnin 643020654-1 Sec4 [Username : panganongnat]
+### Anongnat Chamnin
+- Student ID: 643020654-1
+- Section: Sec.4
+- GitHub Username: [panganongnat]
 <img src="./media/pang.jpg" alt="Image" width="300" height="auto">
 
->chanakan Inudom 643380002-3 Sec4 [Username : chanakan643380002-3]
+### Chanakan Inudom
+- Student ID: 643380002-3
+- Section: Sec.4
+- GitHub Username: [chanakan643380002-3]
 <img src="./media/hern.jpg" alt="Image" width="300" height="auto">
 
->Chinnakrit Maneesukon 643021317-4 Sec4 [Username : chinnakrit643021317-4]
+### Chinnakrit Maneesukon
+- Student ID: 643021317-4
+- Section: Sec.4
+- GitHub Username: [chinnakrit643021317-4]
 <img src="./media/yeen.jpg" alt="Image" width="300" height="auto">
 
->Supisara Nowa 633021162-6 Sec4 [Username : spsrpim]
+### Supisara Nowa
+- Student ID: 633021162-6
+- Section: Sec.4
+- GitHub Username: [spsrpim]
 <img src="./media/pim.jpg" alt="Image" width="300" height="auto">
