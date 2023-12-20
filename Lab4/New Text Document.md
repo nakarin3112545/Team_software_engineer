@@ -103,15 +103,25 @@ uncommonly gay. The Emperor shared in the general satisfaction; and presented th
 with the riband of an order of knighthood, to be worn in their button-holes, and the title of
 "Gentlemen Weavers."
 
-=====
-
-The rogues sat up the whole of the night before the day on which the procession was to take
-place, and had sixteen lights burning, so that everyone might see how anxious they were to
-finish the Emperor's new suit. They pretended to roll the cloth off the looms; cut the air with
-their scissors; and sewed with needles without any thread in them. "See!" cried they, at last.
-"The Emperor's new clothes are ready!"
-And now the Emperor, with all the grandees of his court, came to the weavers; and the rogues
-raised their arms, as if in the act of holding something up, saying, "Here are your Majesty's
-trousers! Here is the scarf! Here is the mantle! The whole suit is as light as a cobweb; one might
-fancy one has nothing at all on, when dressed in it; that, however, is the great virtue of this
-delicate cloth."
+-------------------------------------------------------------------------------------------------------------------------------
+"I am quite ready," answered the Emperor. "Do my new clothes fit well?" asked he, turning
+himself round again before the looking glass, in order that he might appear to be examining his
+handsome suit.
+The lords of the bedchamber, who were to carry his Majesty's train felt about on the ground, as
+if they were lifting up the ends of the mantle; and pretended to be carrying something; for they
+would by no means betray anything like simplicity, or unfitness for their office.
+So now the Emperor walked under his high canopy in the midst of the procession, through the
+streets of his capital; and all the people standing by, and those at the windows, cried out, "Oh!
+How beautiful are our Emperor's new clothes! What a magnificent train there is to the mantle;
+and how gracefully the scarf hangs!" in short, no one would allow that he could not see these
+much-admired clothes; because, in doing so, he would have declared himself either a simpleton
+or unfit for his office. Certainly, none of the Emperor's various suits, had ever made so great an
+impression, as these invisible ones.
+-------------------------------------------------------------------------------------------------------------------------------
+"But the Emperor has nothing at all on!" said a little child.
+"Listen to the voice of innocence!" exclaimed his father; and what the child had said was
+whispered from one to another.
+"But he has nothing at all on!" at last cried out all the people. The Emperor was vexed, for he
+knew that the people were right; but he thought the procession must go on now! And the lords
+of the bedchamber took greater pains than ever, to appear holding up a train, although, in
+reality, there was no train to hold.
