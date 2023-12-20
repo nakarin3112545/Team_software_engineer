@@ -1,5 +1,5 @@
 <h1>Team Software Engineer</h1>
-<h2> Group 1 Sec.4
+<h2> Group 1 Sec.4 </h2>
 --------------------
 ### Nakarin Nawwilai
 - Student ID: 643020615-1
