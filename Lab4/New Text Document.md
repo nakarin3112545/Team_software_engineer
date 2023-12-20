@@ -1,12 +1,15 @@
 <h1>The Emperor's New Clothes by Hans Christian Andersen</h1>
 Many years ago, there was an Emperor, who was so excessively fond of new clothes, that he  spent all his money in dress. He did not trouble himself in the least about his soldiers; nor did  he care to go either to the theatre or the chase, except for the opportunities then afforded him  for displaying his new clothes. He had a different suit for each hour of the day; and as of any  other king or emperor, one is accustomed to say, "he is sitting in council," it was always said of  him, "The Emperor is sitting in his wardrobe." 
 Time passed merrily in the large town which was his capital; strangers arrived every day at the  court. One day, two rogues, calling themselves weavers, made their appearance. They gave out  that they knew how to weave stuffs of the most beautiful colors and elaborate patterns, the  clothes manufactured from which should have the wonderful property of remaining invisible to  everyone who was unfit for the office he held, or who was extraordinarily simple in character.
---------------------------------------------------------------
+
+=====
 
 "These must, indeed, be splendid clothes!" thought the Emperor. "Had I such a suit, I might at once find out what men in my realms are unfit for their office, and also be able to distinguish the wise from the foolish! This stuff must be woven for me immediately." And he caused large sums of money to be given to both the weavers in order that they might begin their work directly.
 
 So the two pretended weavers set up two looms, and affected to work very busily, though in reality they did nothing at all. They asked for the most delicate silk and the purest gold thread; put both into their own knapsacks; and then continued their pretended work at the empty looms until late at night.
----------------------------------------------------------------
+
+=====
+
 "I should like to know how the weavers are getting on with my cloth," said the Emperor to
 himself, after some little time had elapsed; he was, however, rather embarrassed, when he
 remembered that a simpleton, or one unfit for his office, would be unable to see the
@@ -18,7 +21,9 @@ how ignorant, their neighbors might prove to be.
 "I will send my faithful old minister to the weavers," said the Emperor at last, after some
 deliberation, "he will be best able to see how the cloth looks; for he is a man of sense, and no
 one can be more suitable for his office than he is."
----------------------------------------------------------------
+
+=====
+
 So the faithful old minister went into the hall, where the knaves were working with all their
 might, at their empty looms. "What can be the meaning of this?" thought the old man, opening
 his eyes very wide. "I cannot discover the least bit of thread on the looms." However, he did not
@@ -31,14 +36,18 @@ looked, he could not discover anything on the looms, for a very good reason, viz
 nothing there. "What!" thought he again. "Is it possible that I am a simpleton? I have never
 thought so myself; and no one must know it now if I am so. Can it be, that I am unfit for my
 office? No, that must not be said either. I will never confess that I could not see the stuff."
-----------------------------------------------------------------------
+
+=====
+
 "Well, Sir Minister!" said one of the knaves, still pretending to work. "You do not say whether
 the stuff pleases you."
 
 "Oh, it is excellent!" replied the old minister, looking at the loom through his spectacles. "This
 pattern, and the colors, yes, I will tell the Emperor without delay, how very beautiful I think
 them."
-----------------------------------------------------------------------
+
+=====
+
 "We shall be much obliged to you," said the impostors, and then they named the different
 colors and described the pattern of the pretended stuff. The old minister listened attentively to
 their words, in order that he might repeat them to the Emperor; and then the knaves asked for
@@ -49,7 +58,9 @@ The Emperor now sent another officer of his court to see how the men were gettin
 ascertain whether the cloth would soon be ready. It was just the same with this gentleman as
 with the minister; he surveyed the looms on all sides, but could see nothing at all but the empty
 frames.
--------------------------------------------------------------------------------------------------------------------------------
+
+=====
+
 "Does not the stuff appear as beautiful to you, as it did to my lord the minister?" asked the
 impostors of the Emperor's second ambassador; at the same time making the same gestures as
 before, and talking of the design and colors which were not there.
@@ -58,7 +69,9 @@ profitable office! That is very odd; however, no one shall know anything about i
 accordingly he praised the stuff he could not see, and declared that he was delighted with both
 colors and patterns. "Indeed, please your Imperial Majesty," said he to his sovereign when he
 returned, "the cloth which the weavers are preparing is extraordinarily magnificent."
--------------------------------------------------------------------------------------------------------------------------------
+
+=====
+
 The whole city was talking of the splendid cloth which the Emperor had ordered to be woven at
 his own expense.
 And now the Emperor himself wished to see the costly manufacture, while it was still in the
@@ -67,12 +80,16 @@ honest men who had already admired the cloth, he went to the crafty impostors, w
 
 as they were aware of the Emperor's approach, went on working more diligently than ever;
 although they still did not pass a single thread through the looms.
--------------------------------------------------------------------------------------------------------------------------------
+
+=====
+
 "Is not the work absolutely magnificent?" said the two officers of the crown, already
 mentioned. "If your Majesty will only be pleased to look at it! What a splendid design! What
 glorious colors!" and at the same time they pointed to the empty frames; for they imagined
 that everyone else could see this exquisite piece of workmanship.
--------------------------------------------------------------------------------------------------------------------------------
+
+=====
+
 "How is this?" said the Emperor to himself. "I can see nothing! This is indeed a terrible affair!
 Am I a simpleton, or am I unfit to be an Emperor? That would be the worst thing that could
 happen--Oh! the cloth is charming," said he, aloud. "It has my complete approbation." And he
@@ -85,7 +102,9 @@ procession. "Magnificent! Charming! Excellent!" resounded on all sides; and ever
 uncommonly gay. The Emperor shared in the general satisfaction; and presented the impostors
 with the riband of an order of knighthood, to be worn in their button-holes, and the title of
 "Gentlemen Weavers."
-----------------------------------------------------------------------------------------------------------------------------------
+
+=====
+
 The rogues sat up the whole of the night before the day on which the procession was to take
 place, and had sixteen lights burning, so that everyone might see how anxious they were to
 finish the Emperor's new suit. They pretended to roll the cloth off the looms; cut the air with
